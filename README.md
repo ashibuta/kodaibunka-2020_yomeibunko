@@ -19,7 +19,7 @@ N.B. All contents are just only in Japanese.
 
 ## Shooting information　撮影情報  
 
-Shooting information by our microscopic observations
+Shooting information by our microscopic observations  
 顕微鏡撮影箇所の情報をまとめたもの  
 
 ## Table1　表1
