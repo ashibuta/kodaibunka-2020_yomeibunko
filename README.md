@@ -52,3 +52,12 @@ fig4(1)
 fig4(2)  
 fig4(3)  
 図4.pdf Figure 4  
+
+## Fig5-9-statistic　図5～図9および統計解析の結果  
+
+fig5　図5  
+fig6　図6  
+fig7　図7  
+fig8　図8  
+fig9　図9  
+Cords for factor analysis　因子分析の関連コード
