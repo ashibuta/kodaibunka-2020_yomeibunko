@@ -53,11 +53,19 @@ fig4(2)
 fig4(3)  
 図4.pdf Figure 4  
 
-## Fig5-9-statistic　図5～図9および統計解析の結果  
+## Fig5-8-statistic　図5～図8および統計解析の結果  
 
-fig5　図5  
-fig6　図6  
-fig7　図7  
-fig8　図8  
-fig9　図9  
-Cords for factor analysis　因子分析の関連コード
+fig5  
+図5.pdf Figure5  
+fig6  
+図6.pdf Figure 6  
+fig7(1)  
+fig7(2)  
+fig7(3)  
+図7.pdf Figure7  
+fig8(1)  
+fig8(2)  
+図8.pdf Figure8  
+Rで使用したCSVファイルとコード  CSV files Used for R and cords  
+yomei-compo.csv; yomei-square.csv; yomei-starch.csv  
+yomei_ryoshi-starch-tissue.Rmd (docx, pdf)
