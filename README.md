@@ -32,6 +32,9 @@ Same as the table 1
 Same as the table 2  
 表2と同じ  
 
+## Fig1　図1 
+図1.pdf Figure 1
+
 ## Fig2　図2  
 
 fig2(1)  
