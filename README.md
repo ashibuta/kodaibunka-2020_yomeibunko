@@ -5,7 +5,7 @@
 　料紙研究の公開⽣と透明性、データへのアクセシビリティの向上は重要である。本稿では、分析結果に対する再検証を可能にするため、各図版に使⽤した表、顕微鏡撮影画像と撮影箇所の情報、および料紙に含有されたデンプン粒や細胞組織、繊維の解析に⽤いた関連データを個々に公開する。顕微鏡撮影画像はいずれも改変を⾏っていないオリジナルのデータであり、画像のダウンロード後に拡⼤・縮⼩での検証が可能である。またデンプン粒や細胞組織、繊維の解析では、透明性の⾼いソフトウェア環境Rを⽤いて、分析データの分布や構造の可視化を実施しした。なお、これらのデータの著作権はすべて著者らに帰属している（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)）。  
 </p>
 
-## **Supplemental materials for paper: "Transition in Paper Components of Yomei Bunko's Historical Materials: Data visualisation with R Software"**
+## **Supplemental materials for paper: "Analysing Historical Paper Components of the Yomei Bunko Materials : Statistic Analysis and Visualization in R"**
 
 Contributors: Ayako Shibutani  
 License: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)  
